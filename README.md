@@ -1,8 +1,9 @@
 simple-backend
-use
+
+* use
     - mongodb
     - nodejs v6
-run
+* run
     - npm install
     - npm start
     - port 3000
